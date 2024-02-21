@@ -1,11 +1,11 @@
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createHashRouter } from "react-router-dom";
 
-import WelcomePage from './pages/Welcome.jsx';
-import ChallengesPage from './pages/Challenges.jsx';
+import WelcomePage from "./pages/Welcome.jsx";
+import ChallengesPage from "./pages/Challenges.jsx";
 
-const router = createBrowserRouter([
-  { path: '/', element: <WelcomePage /> },
-  { path: '/challenges', element: <ChallengesPage /> },
+const router = createHashRouter([
+  { path: "/", element: <WelcomePage /> },
+  { path: "/challenges", element: <ChallengesPage /> },
 ]);
 
 function App() {
