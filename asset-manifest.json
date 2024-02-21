@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/animation-page/static/css/main.0e00bf61.css",
+    "main.js": "/animation-page/static/js/main.aff180ab.js",
+    "static/js/453.43df57ef.chunk.js": "/animation-page/static/js/453.43df57ef.chunk.js",
+    "static/media/family-time.png": "/animation-page/static/media/family-time.17c7f3b978238b2c43e2.png",
+    "static/media/playing-guitar.png": "/animation-page/static/media/playing-guitar.615290c1fa31ca6d9102.png",
+    "static/media/cooking.png": "/animation-page/static/media/cooking.f37c4eb8360c2ded0229.png",
+    "static/media/romantic-walk.png": "/animation-page/static/media/romantic-walk.6951f671822722a21240.png",
+    "static/media/constructing.png": "/animation-page/static/media/constructing.ff6e1b0d795baa9f275d.png",
+    "static/media/working-on-computer.png": "/animation-page/static/media/working-on-computer.fe7c31f398eba0258f20.png",
+    "static/media/working-out.png": "/animation-page/static/media/working-out.345da94080e9007e537a.png",
+    "static/media/hero.png": "/animation-page/static/media/hero.699eef8616a0cbb962d7.png",
+    "static/media/city.jpg": "/animation-page/static/media/city.59217558a50f09d30d2d.jpg",
+    "index.html": "/animation-page/index.html",
+    "main.0e00bf61.css.map": "/animation-page/static/css/main.0e00bf61.css.map",
+    "main.aff180ab.js.map": "/animation-page/static/js/main.aff180ab.js.map",
+    "453.43df57ef.chunk.js.map": "/animation-page/static/js/453.43df57ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e00bf61.css",
+    "static/js/main.aff180ab.js"
+  ]
+}
